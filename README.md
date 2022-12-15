@@ -8,4 +8,4 @@ Refactoring Pre-Existing Code To Make It A More Modern Style of Coding.
 
 ## Deployed Page Link
 
-[url](https://marco-leiva.github.io/01-HTML-Git-CSS-Challenge/)
+[Horiseon GitPage](https://marco-leiva.github.io/01-HTML-Git-CSS-Challenge/)
